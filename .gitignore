@@ -1,0 +1,30 @@
+# Python Byte-Compiled / Cache Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Local Player Save Data & Auto-Generated Audio Assets
+data/*.json
+assets/sounds/*.wav
+
+# Environment Variables & Logs
+.env
+.env.*
+*.log
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.sublime-workspace
+
+# Operating System Cache Files
+.DS_Store
+Thumbs.db
+desktop.ini
