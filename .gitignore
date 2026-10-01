@@ -11,7 +11,7 @@ ENV/
 
 # Local Player Save Data & Auto-Generated Audio Assets
 data/*.json
-assets/sounds/*.wav
+
 
 # Environment Variables & Logs
 .env
