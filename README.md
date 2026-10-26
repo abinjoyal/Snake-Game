@@ -45,7 +45,7 @@ A modern, feature-packed, and responsive **Classic & Power-Up Snake Game** built
 - **Persistence**: JSON (`highscore.json`, `leaderboard.json`, `achievements.json`, `custom_map.json`)
 - **Audio & Visuals**: Wave sound synthesis & Pygame Alpha Particle Engine
 - **AI Algorithm**: A* Pathfinding with Safety Heuristics
-- **Architecture**: Modular Object-Oriented Programming (OOP)
+- **Architecture**: Modular Object-Oriented Programming
 
 ---
 
