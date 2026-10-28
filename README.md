@@ -76,7 +76,7 @@ snake-game/
 │   ├── achievements_screen.py  # Trophy gallery screen
 │   ├── map_builder_screen.py   # Interactive grid obstacle editor
 │   ├── skins_screen.py         # Skin selection gallery & live animated preview
-│   └── settings_screen.py      # Audio/BGM toggles, Map modes, & game speed options
+│   └── settings_screen.py      # Audio/BGM toggles, Map modes
 │
 ├── assets/
 │   └── sounds/                 # Auto-generated sound effect WAV files & BGM loop
