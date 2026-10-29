@@ -8,7 +8,7 @@ A modern, feature-packed, and responsive **Classic & Power-Up Snake Game** built
 
 - **3 Game Modes**:
   - **1-Player Solo**: Classic high score hunt.
-  - **2-Player Local Versus**: Play side-by-side on the same keyboard (`WASD` vs `Arrow Keys`).
+  - **2-Player Local Versus**: Play side-by-side on the same keyboard 
   - **Player vs AI Bot**: Race against a pathfinding AI Bot snake for food!
 
 - **5 Map Modes**:
